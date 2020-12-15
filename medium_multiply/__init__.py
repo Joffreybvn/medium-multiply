@@ -1,0 +1,2 @@
+
+from medium_multiply.multiplication import Multiplication
