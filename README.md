@@ -3,7 +3,7 @@ A small demo library for a Medium publication about publishing libraries.
 
 ### Installation
 ```
-pip install becode_example
+pip install medium-multiply
 ```
 
 ### Get started
